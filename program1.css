@@ -1,0 +1,40 @@
+li a{
+    display: block;
+    padding: 8px;
+}
+
+ul{
+    border: 1px solid #555;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+li{
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+li a:hover{
+    background-color: #555;
+    color: white;
+}
+a:link, a:active, a:visited{
+    color: red;
+    cursor: pointer;
+}
+.head{
+    text-align: center;
+    text-indent: center;
+}
+.way{
+    text-indent: center;
+    color: black;
+}
+body{
+  color:black;
+    background-color: #CABD80;
+    background-image: url("plate.jpg");
+    background-size:100% 255%;
+   background-repeat:no-repeat;
+
+}
